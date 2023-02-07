@@ -1,3 +1,5 @@
+#Análisis crediticio
+
 Aqui encontraremos el proyecto final de Coderhouse, en el que haremos una prediccion de STATUS en usuarios, siendo:
 * Status 0 no tomadores de prestamo
 * Status 1 buenos pagadores (menos de 59 dias de atraso en el pago)
