@@ -1,4 +1,4 @@
-#Análisis crediticio
+# Análisis crediticio
 
 Aqui encontraremos el proyecto final de Coderhouse, en el que haremos una prediccion de STATUS en usuarios, siendo:
 * Status 0 no tomadores de prestamo
